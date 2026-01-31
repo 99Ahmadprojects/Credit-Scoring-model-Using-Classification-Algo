@@ -1,6 +1,5 @@
 # Credit Scoring Model: German Credit Risk Dataset
 
-## 📌 Project Overview
 This project implements a **Credit Scoring Model** to predict an individual’s creditworthiness using historical financial and demographic data. The model classifies applicants as **good** or **bad** credit risks using supervised machine learning techniques.
 
 The solution is built end-to-end, covering:
